@@ -1,0 +1,24 @@
+{
+  "name": "Calculadora",
+  "description": "Calculadora desenvolvida para fins de estudo.",
+  "main": "index.js",
+  "authors": [
+    "Gabriela Oliveira"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "calculadora"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-alpha.6",
+    "components-font-awesome": "^4.6.3"
+  }
+}
